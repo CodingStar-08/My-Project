@@ -1,0 +1,97 @@
+.container1
+{
+    height: 222px;
+    width: 100%;
+    background-color: #00a884;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+.logo
+{
+    height: 67px;
+    width: 185px;
+    margin-left: 250px;
+    margin-top: 13px;
+}
+.container2
+{
+    width: 980px;
+    height: 400px;
+    margin-top: -130px;
+    margin-left: 250px;
+    background-color: white;
+  
+}
+.whats
+{
+    padding-top: 70px;
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.h2
+{
+
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.list
+{
+    height: 200px;
+    width: 800px;
+    margin-top: 70px;
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-size: large;
+}
+.menu
+{
+    height: 12px;
+    width: 6px;
+}
+.set
+{
+    height: 12px;
+    width: 12px;
+}
+.qrc
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 600px;
+    margin-top: -280px;
+    display: flex; 
+}
+.container3
+{
+    width: 980px;
+    height: 420px;
+    margin-top: 31px;
+    margin-left: 0px;
+    background-color: white;
+    background-color: rgba(245, 243, 241, 0.959);
+}
+h5
+{
+    padding-top: 18px;
+    margin-left: 440px;
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: 100;
+}
+h6
+{
+    margin-top: 20px;
+    margin-left: 380px;
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: 100;
+}
+.vdo
+{
+    margin-top: -20px;
+    margin-left: 230px;
+    height: 300px;
+    width: 500px;
+}
