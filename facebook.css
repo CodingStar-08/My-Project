@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.body
+{
+    background-color: #f0f2f5;
+    height: 744px;
+  
+}
+.box
+{
+    border: solid 1px white;
+    margin: -220px 770px;
+    height: 350px;
+    width: 370px;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px rgb(219, 219, 219);
+    background-color: white;
+
+}
+.fb
+{
+    height: 100px;
+    width: 500px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.uid
+{
+    border: solid 2px#dddfe2;
+    height: 50px;
+    width: 340px;
+    border-radius: 6px;
+    margin: -20px 12px;
+    font-size: 15px;
+}
+.lgn
+{
+    border: solid 1px#dddfe2;
+    height: 50px;
+    width: 340px;
+    border-radius: 6px;
+    margin: -2px 12px;
+    background-color: #1877f2;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+.fp
+{
+    margin-left: 120px;
+    text-decoration: none;
+    color: #5077f2;
+
+}
+.bottom
+{
+    border-bottom: solid 2px#dddfe2;
+    width: 350px;
+    margin: -20px 10px;
+}
+.cna
+{
+    border: solid 1px#dddfe2;
+    height: 45px;
+    width: 200px;
+    border-radius: 6px;
+    margin: 5px 90px;
+    background-color: #42b72a;
+    color: white;
+    cursor: pointer;
+    font-size: 19px;
+    font-weight: bold;
+}
+.under
+{
+    margin-top: 250px;
+    margin-left: 810px;
+
+}
+.tit
+{
+    margin-left: 190px;
+    margin-top: 250px;
+    font-size: 30px;
+
+}
+.lgn:hover
+{
+    background-color: #144bf1;
+}
+.cna:hover
+{
+    background-color: #2ab74b;
+}
+.fp:hover
+{
+    color: blue;
+}
+
